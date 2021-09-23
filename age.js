@@ -7,7 +7,7 @@ const message = name + " is " + age + " years old "
 // const message = name + age + age + " years old "
 // const message = age + age + " years old "
 //console.log(message)
-/*
+
 const cm = 20
 const inches = cm / 2.54
 console.log(inches)
@@ -17,7 +17,6 @@ const height = 200
 const weight = 90
 const bmi = weight / height / height * 1000
 console.log(bmi)
-*/
 
 //const longerWelcomeMessage = "Hej, radbrytning \n Det här syns på andra raden"
 //console.log(longerWelcomeMessage)
@@ -88,7 +87,7 @@ if(age1 < 25 || age1 > 63){
 //const message1 = `Your favorite drink is ${favoriteDrink}`
 //console.log(message1)
 
-/*let coronaYear = 2020;
+let coronaYear = 2020;
 coronaYear++;
 console.log(coronaYear);
 
@@ -112,8 +111,8 @@ const user2 = {
     isTeacher: false
 };
 
-//console.log(user.name.firstName)
+console.log(user.name.firstName)
 
-//const user1Array = [32, 1989, "Hanna", "Tylna", true]
+const user1Array = [32, 1989, "Hanna", "Tylna", true]
 
-console.log(user1, user2)*/
+console.log(user1, user2);
